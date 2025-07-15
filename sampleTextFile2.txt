@@ -1,3 +1,5 @@
 This is a sample text file, text is ok. file updateing
 some new code change updates
 changes from master branch
+this changes in newbranch
+
